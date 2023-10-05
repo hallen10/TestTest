@@ -1,4 +1,4 @@
-body {
+/* body {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -17,4 +17,12 @@ body {
   
   dialog img {
     width: 100%;
+  } */
+
+  div {
+    background: lightgray;
+  }
+  
+  span {
+    background: red;
   }
